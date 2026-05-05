@@ -35,7 +35,16 @@ Me chamo João Emanuel, tenho 16 anos e sou do Paraná. Atualmente estou cursand
 
 ---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+<table>
+  <tr>
+    <td valign="center">
+      <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
+    </td>
+    <td valign="center">
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+    </td>
+  </tr>
+</table>
 
 ---
 
