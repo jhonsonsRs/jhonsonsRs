@@ -48,7 +48,7 @@ Me chamo João Emanuel, tenho 16 anos e sou do Paraná. Atualmente estou cursand
 
 ---
 
-<img src="https://github.com/jhonsonsRs/jhonsonsRs/blob/output/github-contribution-grid-snake.svg?color_snake=%23b44fff&color_dots=%231a1a2e%2C%232d1b4e%2C%236a0dad%2C%239b30ff%2C%23b44fff" />
+<img src="https://github.com/jhonsonsRs/jhonsonsRs/blob/output/github-contribution-grid-snake.svg" />
 
 ---
 
