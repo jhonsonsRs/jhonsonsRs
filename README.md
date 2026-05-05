@@ -41,13 +41,14 @@ Me chamo João Emanuel, tenho 16 anos e sou do Paraná. Atualmente estou cursand
       <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250"/>
     </td>
     <td valign="center">
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=b44fff&background=0d1117&width=600&lines=Every+day+is+a+new+opportunity+to+grow." />
     </td>
   </tr>
 </table>
 
 ---
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&bg_color=0d1117&title_color=b44fff&quote_color=ffffff&author_color=b44fff&border_color=2d1b4e" />
+
+<img src="https://github.com/jhonsonsRs/jhonsonsRs/blob/output/github-contribution-grid-snake.svg" />
 
 ---
 
