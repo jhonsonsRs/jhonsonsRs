@@ -1,10 +1,8 @@
 name: Generate Snake
-
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -14,8 +12,8 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: jhonsonsRs
-          outputs: dist/github-contribution-grid-snake.svg
-
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#b44fff&color_dots=#1a1a2e,#2d1b4e,#6a0dad,#9b30ff,#b44fff
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
         with:
