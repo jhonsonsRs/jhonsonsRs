@@ -6,6 +6,7 @@ Me chamo João Emanuel, tenho 16 anos e sou do Paraná. Atualmente estou cursand
   <a href="https://instagram.com/joao_.emnel" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/jo%C3%A3o-emanuel-vieira-orlando-8b173539b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -84,11 +85,13 @@ Me chamo João Emanuel, tenho 16 anos e sou do Paraná. Atualmente estou cursand
   alt="GitHub Stats" 
   height="200" 
   style="padding-right: 10px;" 
-  src="https://github-readme-stats-chi-three-65.vercel.app/api?username=jhonsonsRs&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  src="https://github-readme-stats-chi-three-65.vercel.app/api?username=jhonsonsRs&show_icons=true&theme=radical&include_all_commits=true&locale=pt-br"
 />
 <img 
   align="left" 
   alt="Top Langs" 
   height="200" 
-  src="https://github-readme-stats-chi-three-65.vercel.app/api/top-langs/?username=jhonsonsRs&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  src="https://github-readme-stats-chi-three-65.vercel.app/api/top-langs/?username=jhonsonsRs&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9"
 />
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
